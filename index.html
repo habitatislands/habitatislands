@@ -1,4 +1,36 @@
 ---
 layout: splash
 title: "Welcome"
+excerpt: "A short tagline for your site"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header-bg.jpg
+  actions:
+    - label: "Get Started"
+      url: "/about/"
+feature_row:
+  - image_path: /assets/images/feature-1.jpg
+    alt: "Feature 1"
+    title: "Services"
+    excerpt: "Short description of this section."
+    url: "/services/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature-2.jpg
+    alt: "Feature 2"
+    title: "Portfolio"
+    excerpt: "Short description of this section."
+    url: "/portfolio/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature-3.jpg
+    alt: "Feature 3"
+    title: "Contact"
+    excerpt: "Short description of this section."
+    url: "/contact/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
