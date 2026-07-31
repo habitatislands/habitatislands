@@ -1,5 +1,5 @@
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "mint"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Site
@@ -10,7 +10,7 @@ subtitle: "A workshop to discuss concept and build a funding strategy for this i
 description: "A workshop to discuss concept and build a funding strategy for this idea in the Bocas del Toro Archipelago, Panama"
 url: "https://habitatislands.github.io"
 baseurl: ""
-repository: "habitatislands/habitatislands.github.io
+repository: "habitatislands/habitatislands.github.io"
 
 # Author
 author:
