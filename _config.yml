@@ -1,0 +1,49 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "mint"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Site
+locale: "en-US"
+title: "Continental Archipelagos as Models for Eco-Evolutionary Impacts of Habitat Fragmentation"
+title_separator: "-"
+subtitle: "A workshop to discuss concept and build a funding strategy for this idea in the Bocas del Toro Archipelago, Panama"
+description: "A workshop to discuss concept and build a funding strategy for this idea in the Bocas del Toro Archipelago, Panama"
+url: "https://habitatislands.github.io"
+baseurl: ""
+repository: "habitatislands/habitatislands.github.io"
+
+# Author
+author:
+  name: "Peri Bolton"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Dr Peri Bolton is the Senior Project Coordinator."
+  location: "Panama"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:you@example.com"
+
+# Site footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bocasdeltorobiodiversity@gmail.com"
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Reading files
+include:
+  - _pages
+
+# Defaults - controls layout for pages automatically
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
