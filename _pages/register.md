@@ -11,11 +11,10 @@ header:
 
 ## Register for the Workshop
 
-Please register using the form linked below. We look forward to having you join us in
-Bocas del Toro, Panama, August 26–28.
+There are a number of sessions open to STRI and Panamanian scientists. Please register so that we can get your dietary needs. 
 
-<a href="PLACEHOLDER_GOOGLE_FORM_URL" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
+Hay varias sesiones abiertas a científicos de STRI y de Panamá. Por favor, regístrese para que podamos tener en cuenta sus necesidades dietéticas.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScc4Bwu4mqNNl_CKYnxhQRZ3te4lcnlTasWF_FPxCLjy2UvHg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
   Register Now
 </a>
-
-*Note: replace `PLACEHOLDER_GOOGLE_FORM_URL` above with your Google Form link once it's ready.*
