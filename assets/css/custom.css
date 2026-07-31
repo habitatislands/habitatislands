@@ -4,3 +4,33 @@
   height: 200px;
   object-fit: cover;
 }
+
+/* Make all feature row items equal height */
+.feature__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.feature__wrapper .feature__item,
+.feature__wrapper .feature__item--left,
+.feature__wrapper .feature__item--right,
+.feature__wrapper .feature__item--center {
+  display: flex;
+}
+
+.feature__wrapper .archive__item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.feature__wrapper .archive__item-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+/* Push the button to the bottom of each card */
+.feature__wrapper .archive__item-body p:last-child {
+  margin-top: auto;
+}
