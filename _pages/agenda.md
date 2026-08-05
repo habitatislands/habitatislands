@@ -22,9 +22,9 @@ This is the high-level agenda.  For detailed timings of talks please click [HERE
 | Time | Session |
 |------|---------|
 | 8:30 AM |  Welcome & introductions |
-| 9:15 AM | Speed Talks: Bocas System Overview & Habitat Fragmentation research, and using Continental Archipelagos as a model for habitat fragmentation|
+| 9:15 AM | **Speed Talks:** Bocas System Overview & Habitat Fragmentation research, and using Continental Archipelagos as a model for habitat fragmentation (open session) |
 | 12:00 PM | Lunch |
-| 1:00 PM | Talks and discussion Continued |
+| 1:00 PM | Talks and discussion Continued (open session) |
 | 2:00 PM | Grant strategy and alignment |
 | 5:30 PM | Adjourn
 | 7:00 PM | Welcome Dinner with remarks from STRI Deputy Director Oris Sanjur | 
@@ -33,9 +33,9 @@ This is the high-level agenda.  For detailed timings of talks please click [HERE
 
 | Time | Session |
 |------|---------|
-| 9:00 AM | OSP: How to win large grants |
-| 09:30 AM | Panel: How to win large grants |
-| 11:00 AM | Invited Speaker: [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) - AI in conservation planning |
+| 9:00 AM | **Talk by Office of Sponsored Projects**: How to win large grants (Open Session) |
+| 09:30 AM | **Panel:** How to win large grants (Open Session) |
+| 11:00 AM | **Invited Speaker:** [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) - AI in conservation planning (Open Session) |
 | 12:00 PM | Lunch |
 | 1:00 PM | Grant Outlining |
 | 5:30 PM | Adjourn |
