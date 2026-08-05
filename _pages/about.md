@@ -27,7 +27,11 @@ This workshop brings together researchers to discuss continental archipelagos as
 studying the eco-evolutionary impacts of habitat fragmentation, using the Bocas del Toro
 Archipelago in Panamá as a focal system. The guiding work is originally outlined in a [pre-proposal to the Simons Foundation in 2025](https://drive.google.com/file/d/1JDRmWRh0cCE9qmO4XezCtvM4x4fM3Ga_/view?usp=drive_link).
 
-This is an outcomes focused workshop where we will develop grant outlines and a funding strategy for this project, alongside professional development and timely discussions. We anticipate up to 30 people will attend, including local STRI scientists.
+This is an outcomes focused workshop where we will develop grant outlines and a funding strategy for this project, alongside professional development and timely discussions. We anticipate up to 30 people will attend, including local STRI scientists. We will use pre-submitted white-papers as a guide for formation of grant strategies and outlines.
+
+
+ - Here is the [link to my spreadsheet](https://docs.google.com/spreadsheets/d/1jyY_QEl0Sw0Eud2Nw0sPc6btzi95Vh4IVyENVSffTR8?usp=drive_fs) including the potential funding sources (keeping in mind we will probably target Bezos, NSF)
+ - See here [some slides that include a concept map](https://docs.google.com/spreadsheets/d/1jyY_QEl0Sw0Eud2Nw0sPc6btzi95Vh4IVyENVSffTR8?usp=drive_fs) outlining how some of the concepts discussed and personnel listed in the Simons Pre-Proposal link together. Do not let this constrain your thinking, just contains suggestions as to how ideas can be partitioned from the original proposal, and does not exclude contributions of new participants. We will form linkages among white-papers in a similar way as in these slides. 
 
 
 ### Goals
