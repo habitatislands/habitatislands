@@ -11,42 +11,41 @@ header:
 
 ## Workshop Agenda
 
-**Location:** Bocas del Toro Archipelago, Panama
+**Location:** Gamboa Rainforest Resort, Panama
+
 **Dates:** August 26–28
 
-This is the high-level agenda. For detailed timings of talks please click HERE
+This is the high-level agenda.  For detailed timings of talks please click [HERE](https://docs.google.com/spreadsheets/d/1uLLybUM512jdeAXQ1PDd2xZWlHWENdSG/edit?usp=sharing&ouid=103789757576400290695&rtpof=true&sd=true).
 
 ### Day 1 — August 26
 
 | Time | Session |
 |------|---------|
 | 8:30 AM |  Welcome & introductions |
-| 9:15 AM | Speed Talks: Bocas System Overiew |
-| 9:45 AM | Speed Talks: Fragmentation Effects |
-| 11:00 AM | Speed Talks: Adaptive Responses |
+| 9:15 AM | Speed Talks: Bocas System Overview & Habitat Fragmentation research, and using Continental Archipelagos as a model for habitat fragmentation|
 | 12:00 PM | Lunch |
-| 1:30 PM | Placeholder: Session title |
-| 4:00 PM | Placeholder: Discussion |
-| 7:00 PM | Welcome Dinner with remarks from Oris Sanjur | 
+| 1:00 PM | Talks and discussion Continued |
+| 2:00 PM | Grant strategy and alignment |
+| 5:30 PM | Adjourn
+| 7:00 PM | Welcome Dinner with remarks from STRI Deputy Director Oris Sanjur | 
 
 ### Day 2 — August 27
 
 | Time | Session |
 |------|---------|
-| 9:00 AM | Placeholder: Session title |
-| 10:30 AM | Placeholder: Session title |
+| 9:00 AM | OSP: How to win large grants |
+| 09:30 AM | Panel: How to win large grants |
+| 11:00 AM | Invited Speaker: [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) - AI in conservation planning |
 | 12:00 PM | Lunch |
-| 1:30 PM | Placeholder: Field visit / breakout groups |
-| 4:00 PM | Placeholder: Discussion |
+| 1:00 PM | Grant Outlining |
+| 5:30 PM | Adjourn |
 
 ### Day 3 — August 28
 
 | Time | Session |
 |------|---------|
-| 9:00 AM | Placeholder: Session title |
-| 10:30 AM | Placeholder: Funding strategy discussion |
+| 9:00 AM | Continued Grant Outlining |
+| 11:00 AM | Closing remarks, Next steps & wrap-up  |
 | 12:00 PM | Lunch |
-| 1:30 PM | Placeholder: Next steps & wrap-up |
-| 3:00 PM | Closing remarks |
 
-*Full agenda details to be added.*
+
