@@ -29,7 +29,8 @@ Because this workshop depends on hearing many voices, we ask everyone to:
 - Treat a facilitator's redirect (“Let's hear from someone new”) as normal, healthy facilitation — not a personal correction.
 - Use sticky notes, shared docs, or chat during breakouts so quieter voices can contribute in more than one way.
 - Expect structured formats (round-robin turns, timed responses, small breakouts and raised hands)
-- Facilitator Role
+
+## Facilitator Role
 - Facilitators actively manage time and airtime. They may redirect, pause, or gently interrupt any speaker, regardless of seniority, to protect space for other participants, and they will invite quieter participants directly (“[Name], what's your take?”). We ask everyone to receive these interventions as good facilitation, not as disrespect.
 
 ## Respectful Communication
