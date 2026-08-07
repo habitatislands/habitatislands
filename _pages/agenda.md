@@ -44,7 +44,6 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 
 ## Day 1 — August 26
 
-
 <table>
   <thead>
     <tr><th>Time</th><th>Session</th></tr>
@@ -59,7 +58,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         <li>Workshop expectations</li>
         <li>Goals</li>
         <li>Outcomes and products</li>
-      </ul> 
+      </ul>
     </tr>
     <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks + discussion)</strong></td></tr>
     <tr>
@@ -70,7 +69,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
           <li><em>Rachel Collin</em> (STRI) — Bocas del Toro and STRI field station</li>
           <li><em>Aaron O'Dea/Mike Braun</em> (STRI/NMNH) — Geomorphic evolution of Bocas del Toro archipelago</li>
           <li><em>Kira Long</em> (NZCBI) — Bocas del Toro province as a biogeographic suture zone</li>
-          <li><em>Ana Spalding</em> (STRI) Human Aspects of Bocas Del Toro</li>
+          <li><em>Ana Spalding</em> (STRI) — Human Aspects of Bocas Del Toro</li>
           <li><em>Peri Bolton/Mike Braun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
         </ul>
       </td>
@@ -135,7 +134,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
             <li>Readiness and barriers</li>
           </ul>
       </ul>
-    </td>
+      </td>
     </tr>
     <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
     <tr><td>3:45–4:45 PM</td><td>Discovery highlights &amp; strategic discussion (cont'd)</td></tr>
@@ -143,21 +142,21 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>4:45–5:15 PM</td>
       <td>Mapping strengths to funders
         <ul>
-          <li>Align themes with  Smithsonian and Funder priorities</li>
+          <li>Align themes with Smithsonian and Funder priorities</li>
           <li>Identify:</li>
           <ul>
-            <li>Strengths and competitive advantages </li>
+            <li>Strengths and competitive advantages</li>
             <li>Gaps and risks</li>
-            <li>Opportunities for strategic positioning </li>
+            <li>Opportunities for strategic positioning</li>
           </ul>
           <li>Begin <b>Funder Alignment Matrix</b> and <b>Breakout Group Identity</b></li>
         </ul>
-    </td>
+      </td>
     </tr>
     <tr><td>5:15–5:30 PM</td><td>Day 1 wrap-up
     <ul>
-      <li>Key takeaways </li>
-      <li>Preview of Day 2 (product-focused development)</li> 
+      <li>Key takeaways</li>
+      <li>Preview of Day 2 (product-focused development)</li>
     </ul>
     </td></tr>
     <tr><td>5:30 PM</td><td>Adjourn</td></tr>
@@ -218,64 +217,74 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
     </tr>
     <tr>
       <td style="background-color: #e9ecec;">12:00–1:00 PM</td><td style="background-color: #e9ecec;">Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
-    <tr><td>1:00–3:30 PM</td><td><strong>Breakouts:</strong> strategic positioning, proposal concept development, collaboration infrastructure
-    <p>Strategic Positioning &amp; Team Formation (~0.5 hr)</p>
-    <ul>
-      <li>Small group breakouts organized by subtheme based on white-papers (identified previous day)</li>
-      <li>Define:
+    <tr>
+      <td>1:00–5:30 PM</td>
+      <td>
+        <strong>Breakouts:</strong> strategic positioning, proposal concept development, funder-specific messaging, collaboration infrastructure
+        <p><em>Note: These four sub-activities run continuously across the full afternoon session (1:00–3:30 PM and 3:45–5:30 PM), with a 15-minute tea break at 3:30–3:45 PM in the middle. Their combined time estimate (~4 hours) is designed to span both halves — facilitators should plan to carry Proposal Concept Development and Funder-Specific Messaging across the break rather than treating 3:30 PM as a hard stop.</em></p>
+        <p>Strategic Positioning &amp; Team Formation (~0.5 hr)</p>
         <ul>
-          <li>Core research questions</li>
-          <li>Potential proposal directions</li>
-          <li>Required expertise and partnerships, including identification of expertise gaps</li>
+          <li>Small group breakouts organized by subtheme based on white-papers (identified previous day)</li>
+          <li>Define:
+            <ul>
+              <li>Core research questions</li>
+              <li>Potential proposal directions</li>
+              <li>Required expertise and partnerships, including identification of expertise gaps</li>
+            </ul>
+          </li>
+          <li>Draft:
+            <ul>
+              <li>Early <b>Partner &amp; Role Blueprint</b></li>
+              <li>Initial concept framing language</li>
+            </ul>
+          </li>
         </ul>
-      </li>
-      <li>Draft:
+        <p>Bocas Fragmentation Proposal Concept Development (~2.5 hrs)</p>
         <ul>
-          <li>Early <b>Partner &amp; Role Blueprint</b></li>
-          <li>Initial concept framing language</li>
+          <li>Develop 2–3 priority proposal concepts:
+            <ul>
+              <li>Specific aims</li>
+              <li>Narrative framing</li>
+              <li>Innovation and impact positioning</li>
+            </ul>
+          </li>
+          <li>Begin drafting <strong>Proposal Concept Briefs</strong></li>
         </ul>
-      </li>
-    </ul>
-    <p>Bocas Fragmentation Proposal Concept Development (~3hrs)</p>
-    <ul>
-      <li>Develop 2–3 priority proposal concepts:
+        <p>Funder-Specific Messaging (~30–45 min)</p>
         <ul>
-          <li>Specific aims</li>
-          <li>Narrative framing</li>
-          <li>Innovation and impact positioning</li>
+          <li>Each group pulls 1–2 candidate funders from the <b>Funder Alignment Matrix</b> (started Day 1)</li>
+          <li>Draft a short funder-facing pitch paragraph per concept, framed in that funder's own priority language rather than generic impact language</li>
+          <li>Jen Salazar and Stephanie Rios (OSP) circulate between groups to react to draft messaging in real time</li>
+          <li>Output: funder-tailored language attached to each Proposal Concept Brief, ready for Day 3 review</li>
         </ul>
-      </li>
-      <li>Begin drafting <strong>Proposal Concept Briefs</strong></li>
-    </ul>
-    <p>Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)</p>
-    <ul>
-      <li>Develop:
+        <p>Building the Bocas Fragmentation Collaboration Infrastructure (~0.5 hr)</p>
         <ul>
-          <li>Team Identity document (mission, goals, norms)</li>
-          <li>Expertise &amp; Needs Matrix</li>
-          <li>Collaboration Interest Map</li>
+          <li>Develop:
+            <ul>
+              <li>Team Identity document (mission, goals, norms)</li>
+              <li>Expertise &amp; Needs Matrix</li>
+              <li>Collaboration Interest Map</li>
+            </ul>
+          </li>
+          <li>Refine:
+            <ul>
+              <li>Partner roles</li>
+              <li>Engagement strategy</li>
+            </ul>
+          </li>
         </ul>
-      </li>
-      <li>Refine:
-        <ul>
-          <li>Partner roles</li>
-          <li>Engagement strategy</li>
-        </ul>
-      </li>
-    </ul>
-    </td></tr>
+      </td>
+    </tr>
     <tr>
       <td style="background-color: #e9ecec;">3:30–3:45 PM</td>
       <td style="background-color: #e9ecec;">Tea and Coffee Break</td></tr>
-    <tr><td>3:30–5:30 PM</td><td>Breakouts continued: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
+    <tr><td>3:45–5:30 PM</td><td>Breakouts continued: strategic positioning, proposal concept development, funder-specific messaging, collaboration infrastructure (see note above)</td></tr>
     <tr><td>5:30 PM</td><td>Adjourn</td></tr>
     <tr>
       <td style="background-color: #e9ecec;">Evening</td><td style="background-color: #e9ecec;">DIY dinner (not covered)</td>
     </tr>
   </tbody>
 </table>
-
-
 
 ## Day 3 — August 28
 
@@ -284,24 +293,34 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
     <tr><th>Time</th><th>Session</th></tr>
   </thead>
   <tbody>
-    <tr><td>8:30–10:15 AM</td><td><strong>Continued Breakouts:</strong> Continued proposal outlining (as necessary)
-    <p>Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)</p>
-    <ul>
-      <li>Develop:
+    <tr>
+      <td>8:30–10:15 AM</td>
+      <td>
+        <strong>Continued Breakouts:</strong> Continued proposal outlining (as necessary)
+        <p><em>Note: If Bocas Fragmentation Proposal Concept Development (Day 2) is not yet complete, groups should prioritize finishing Specific Aims, Narrative Framing, and Proposal Concept Briefs first, since these are prerequisites for the Final Synthesis review below. Move to Collaboration Infrastructure only once concept briefs are drafted.</em></p>
+        <p>Bocas Fragmentation Proposal Concept Development (as needed)</p>
         <ul>
-          <li><b>Team Identity document</b> (mission, goals, norms)</li>
-          <li><b>Expertise &amp; Needs Matrix</b></li>
-          <li><b>Collaboration Interest Map</b></li>
+          <li>Finish Specific Aims, Narrative Framing, Innovation/Impact Positioning</li>
+          <li>Finalize <b>Proposal Concept Briefs</b></li>
         </ul>
-      </li>
-      <li>Refine:
+        <p>Building the Bocas Fragmentation Collaboration Infrastructure (~0.5 hr, if time remains)</p>
         <ul>
-          <li>Partner roles</li>
-          <li>Engagement strategy</li>
+          <li>Develop:
+            <ul>
+              <li><b>Team Identity document</b> (mission, goals, norms)</li>
+              <li><b>Expertise &amp; Needs Matrix</b></li>
+              <li><b>Collaboration Interest Map</b></li>
+            </ul>
+          </li>
+          <li>Refine:
+            <ul>
+              <li>Partner roles</li>
+              <li>Engagement strategy</li>
+            </ul>
+          </li>
         </ul>
-      </li>
-    </ul>
-    </td></tr>
+      </td>
+    </tr>
     <tr class="break-row"><td>10:15–10:30 AM</td><td>Tea and Coffee Break</td></tr>
     <tr>
       <td>10:30–11:30 AM</td>
@@ -333,6 +352,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>9:00 AM–5:00 PM</td>
       <td>
         <strong>Grant writing skills for STRI personnel</strong> (meeting sessions with individual STRI PIs and Jen Salazar)
+        <p><em>Note: This runs as a parallel, individually-scheduled track and is not required attendance for the main morning program above. STRI PIs with a scheduled session here should confirm in advance whether they are also needed in the 8:30–11:30 AM breakouts and Final Synthesis, so both commitments don't conflict.</em></p>
         <p>These topics are driven by the needs of STRI, but some example topics appear below:</p>
         <ul>
           <li>Developing your own PI strategic plan</li>
@@ -347,9 +367,8 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
   </tbody>
 </table>
 
-
-## Day 4 - August 29 
+## Day 4 — August 29
 
 | Time | Session |
 |------|---------|
-| All day | Departures - transfers airport → Gamboa Rainforest Resort |
+| All day | Departures — transfers Gamboa Rainforest Resort → airport |
