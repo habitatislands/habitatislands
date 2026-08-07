@@ -223,7 +223,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>1:00–5:30 PM</td>
       <td>
         <strong>Breakouts:</strong> strategic positioning, proposal concept development, funder-specific messaging, collaboration infrastructure
-        <p><em>Note: These four sub-activities run continuously across the full afternoon session (1:00–3:30 PM and 3:45–5:30 PM), with a 15-minute tea break at 3:30–3:45 PM in the middle. Their combined time estimate (~4 hours) is designed to span both halves — facilitators should plan to carry Proposal Concept Development and Funder-Specific Messaging across the break rather than treating 3:30 PM as a hard stop.</em></p>
+        <p><em>Note: These four sub-activities run continuously across the full afternoon session (1:00–3:30 PM and 3:45–5:30 PM), with a 15-minute tea break at 3:30–3:45 PM in the middle. Their combined time estimate (~4 hours) is designed to span both halves</em></p>
         <p>Strategic Positioning &amp; Team Formation (~0.5 hr)</p>
         <ul>
           <li>Small group breakouts organized by subtheme based on white-papers (identified previous day)</li>
