@@ -37,4 +37,19 @@
 
 .page__footer-follow a[href="/feed.xml"] {
   display: none;
+
+  .page--agenda table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.page--agenda th:first-child,
+.page--agenda td:first-child {
+  width: 25%;
+}
+
+.page--agenda th:last-child,
+.page--agenda td:last-child {
+  width: 75%;
+}
 }
