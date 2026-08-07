@@ -60,3 +60,7 @@
   background-color: #11999e;
   color: #ffffff;
 }
+
+.page__content tr.break-row td {
+  background-color: #e8f4f0; /* lighter than header, darker than default rows */
+}
