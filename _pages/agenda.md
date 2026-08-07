@@ -66,7 +66,9 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
       </td>
     </tr>
-    <tr class="break-row"><td>10:30–10:45 AM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">10:30–10:45 AM</td><td style="background-color: #e9ecec;">Tea and Coffee Break</td>
+    </tr>
     <tr>
       <td>10:45–12:00 PM</td>
       <td>
