@@ -11,9 +11,17 @@ header:
 
 ## Register for the Workshop 
 
-There are a number of sessions open to STRI and Panamanian scientists. Please register so that we can get your dietary needs. Please register before August 14th. 
+- There are a number of sessions open to STRI and Panamanian scientists. 
+- Please register so that we can get your dietary needs.
+- Please consult the [agenda](/agenda/) prior to registering.
+- Please register before August 14th. 
 
-Hay varias sesiones abiertas a científicos de STRI y de Panamá. Por favor, regístrese para que podamos tener en cuenta sus necesidades dietéticas. Por favor, registrarse antes del 14 de agosto.
+- Hay varias sesiones abiertas a científicos de STRI y de Panamá.
+- Por favor, regístrese para que podamos tener en cuenta sus necesidades dietéticas.
+- Por favor, consulte la agenda antes de registrarse.
+- Por favor, registrese antes del 14 de agosto.
+
+
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScqNqTFGroWpGTPa0UrSCZkRDG3Rm5SCpbLuQmWdZFxvLo5fg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
   Register Now
