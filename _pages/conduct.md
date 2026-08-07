@@ -9,7 +9,9 @@ header:
 ---
 
 # Workshop Code of Conduct
-  
+
+Go back to [agenda](/agenda.md/)
+
 ## Our Commitment
 This workshop welcomes participants across disciplines, career stages, and institutions. We build every session on mutual respect, and we ask each participant to help create a space where everyone can contribute fully.
 
@@ -36,4 +38,4 @@ Participants avoid interrupting, talking over others, and dismissive language or
 ## Raising a Concern
 Any participant can raise a concern privately with a facilitator or organizer at any time. Organizers will handle every concern promptly and with discretion.
 
-Go back to [agenda]()
+Go back to [agenda](/agenda.md/)
