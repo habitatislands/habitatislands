@@ -82,7 +82,9 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
       </td>
     </tr>
-    <tr class="break-row"><td>12:00-1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">12:00-1:00 PM</td><td style="background-color: #e9ecec;">Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td>
+    </tr>
     <tr><td>1:00–2:30 PM</td><td><strong>Talks continued &amp; discussion</strong> — segue into thematic framing</td></tr>
     <tr>
       <td>1:00–1:40 PM</td>
@@ -114,7 +116,9 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
     <tr><td>4:45–5:15 PM</td><td>Mapping strengths to funders</td></tr>
     <tr><td>5:15–5:30 PM</td><td>Day 1 wrap-up</td></tr>
     <tr><td>5:30 PM</td><td>Adjourn</td></tr>
-    <tr><td>7:00 PM</td><td>Group dinner in Embera Rm &amp; welcome remarks (Oris Sanjur, STRI Deputy Director)</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">7:00 PM</td><td style="background-color: #e9ecec;">Group dinner in Embera Rm &amp; welcome remarks (Oris Sanjur, STRI Deputy Director)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -139,20 +143,25 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
       </td>
     </tr>
-    <tr class="break-row"><td>10:45–11:00 AM</td><td>Tea and Coffee Break</td></tr>
     <tr>
-      <td>11:00 AM–12:00 PM</td>
+      <td style="background-color: #e9ecec;">10:45–11:00 AM</td><td style="background-color: #e9ecec;">Tea and Coffee Break</td>
+    </tr>
+    <tr>
+      <td>11:00–12:00 PM</td>
       <td>
         Open session <strong>Invited speaker</strong><br>
         <em>Dr Bistra Dilkina</em> (University of Southern California) — AI for conservation planning
       </td>
     </tr>
-    <tr class="break-row"><td>12:00–1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">12:00–1:00 PM</td><td style="background-color: #e9ecec;">Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
     <tr><td>1:00–3:30 PM</td><td>Breakouts: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
     <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
     <tr><td>3:30–5:30 PM</td><td>Breakouts continued: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
     <tr><td>5:30 PM</td><td>Adjourn</td></tr>
-    <tr><td>Evening</td><td>DIY dinner (not covered)</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">Evening</td><td style="background-color: #e9ecec;">DIY dinner (not covered)</td>
+    </tr>
   </tbody>
 </table>
 
