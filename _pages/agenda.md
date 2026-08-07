@@ -2,6 +2,7 @@
 title: "Agenda"
 permalink: /agenda/
 layout: single
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
