@@ -41,7 +41,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 - *Aaron O'Dea/Mike Braun* (STRI/NMNH) Geomorphic evolution of Bocas del Toro archipelago
 - *Kira Long* (NZCBI) Bocas del Toro province as a biogeographic suture zone
 - *Peri Bolton/Mike Braun* (NMNH) Bird species diversity in Bocas del Toro |
-| 10:30-10:45 AM | Tea and Coffee Break |
+<tr class="break-row"><td> 10:30-10:45 AM </td><td> Tea and Coffee Break </td></tr>
 | 10:45-12:00 PM | **Fragmentation Effects.** Speakers:
 - *Sandra Galeano* (Instituto von Humboldt) Leaf fitter frog communities in Bocas del Toro
 - *Haw Chuan Lim* (George Mason University) Fragmentation experiment in Borneo rainforests
