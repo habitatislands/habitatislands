@@ -61,7 +61,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         <li>Outcomes and products</li>
       </ul> 
     </tr>
-    <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks)</strong></td></tr>
+    <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks + discussion)</strong></td></tr>
     <tr>
       <td>9:30–10:30 AM</td>
       <td>
@@ -70,6 +70,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
           <li><em>Rachel Collin</em> (STRI) — Bocas del Toro and STRI field station</li>
           <li><em>Aaron O'Dea/Mike Braun</em> (STRI/NMNH) — Geomorphic evolution of Bocas del Toro archipelago</li>
           <li><em>Kira Long</em> (NZCBI) — Bocas del Toro province as a biogeographic suture zone</li>
+          <li><em>Ana Spalding</em> (STRI) Human Aspects of Bocas Del Toro</li>
           <li><em>Peri Bolton/Mike Braun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
         </ul>
       </td>
@@ -278,14 +279,74 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 
 ## Day 3 — August 28
 
-| Time | Session |
-|------|---------|
-| 8:30–10:15 AM | Continued breakouts: proposal outlining & collaboration infrastructure |
-| 10:15–10:30 AM | Tea and Coffee Break |
-| 10:30–11:30 AM | Final synthesis & commitments |
-| 12:00-1:00 PM | Buffet Lunch [El Corotú](https://www.gamboaresort.com/dining/el-corotu) |
-| 1:00PM | Adjourn |
-| Afternoon (optional) | STRI-specific sessions, individual discussions, tours |
+<table>
+  <thead>
+    <tr><th>Time</th><th>Session</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>8:30–10:15 AM</td><td><strong>Continued Breakouts:</strong> Continued proposal outlining (as necessary)
+    <p>Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)</p>
+    <ul>
+      <li>Develop:
+        <ul>
+          <li><b>Team Identity document</b> (mission, goals, norms)</li>
+          <li><b>Expertise &amp; Needs Matrix</b></li>
+          <li><b>Collaboration Interest Map</b></li>
+        </ul>
+      </li>
+      <li>Refine:
+        <ul>
+          <li>Partner roles</li>
+          <li>Engagement strategy</li>
+        </ul>
+      </li>
+    </ul>
+    </td></tr>
+    <tr class="break-row"><td>10:15–10:30 AM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td>10:30–11:30 AM</td>
+      <td>
+        <strong>Final Synthesis &amp; Commitments</strong>
+        <ul>
+          <li>Road mapping — schedule of submissions</li>
+          <li>Review all drafted products:
+            <ul>
+              <li>Funder Alignment Matrix</li>
+              <li>Proposal Concepts</li>
+              <li>Partner Blueprint</li>
+              <li>Roadmap / when to apply to what / networking and pitches needed</li>
+            </ul>
+          </li>
+          <li>Confirm:
+            <ul>
+              <li>Priority proposals</li>
+              <li>Ownership and accountability</li>
+              <li>Near-term deadlines</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td style="background-color: #e9ecec;">12:00 PM</td>
+      <td style="background-color: #e9ecec;">Adjourn and Final Lunch</td></tr>
+    <tr>
+      <td>9:00 AM–5:00 PM</td>
+      <td>
+        <strong>Grant writing skills for STRI personnel</strong> (meeting sessions with individual STRI PIs and Jen Salazar)
+        <p>These topics are driven by the needs of STRI, but some example topics appear below:</p>
+        <ul>
+          <li>Developing your own PI strategic plan</li>
+          <li>Grant writing best practices</li>
+          <li>Communication with funders — federal vs. advancement protocols</li>
+          <li>Improving quality control prior to submission (request team or individual review)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td>Optional</td><td>Individual discussions with speakers, STRI scientists, tours</td></tr>
+    <tr><td>—</td><td>Transfers to Panama City Airport (or the next day, as needed)</td></tr>
+  </tbody>
+</table>
+
 
 ## Day 4 - August 29 
 
