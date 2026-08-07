@@ -136,7 +136,9 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       </ul>
       </td>
     </tr>
-    <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">3:30–3:45 PM</td>
+      <td style="background-color: #e9ecec;">Tea and Coffee Break</td></tr>
     <tr><td>3:45–4:45 PM</td><td>Discovery highlights &amp; strategic discussion (cont'd)</td></tr>
     <tr>
       <td>4:45–5:15 PM</td>
@@ -321,7 +323,9 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
       </td>
     </tr>
-    <tr class="break-row"><td>10:15–10:30 AM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">10:15–10:30 AM</td>
+      <td style="background-color: #e9ecec;">Tea and Coffee Break</td></tr>
     <tr>
       <td>10:30–11:30 AM</td>
       <td>
