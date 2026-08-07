@@ -16,10 +16,12 @@ header:
 - Please consult the [agenda](/agenda/) prior to registering.
 - Please register before August 14th. 
 
-- Hay varias sesiones abiertas a científicos de STRI y de Panamá.
+
+- Hay varias sesiones abiertas a científicos de STRI y de Panamá, pero las sesiones se impartirán inglés.
 - Por favor, regístrese para que podamos tener en cuenta sus necesidades dietéticas.
 - Por favor, consulte la agenda antes de registrarse.
 - Por favor, registrese antes del 14 de agosto.
+
 
 
 
