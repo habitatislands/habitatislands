@@ -20,11 +20,10 @@ Please keep checking here for last minute minor changes to speaker schedule!
 
 ## Table of Contents 
 * [Code of Conduct](#code-of-conduct)
-* [Day 0 — August 25](#day-0--august-25)
 * [Day 1 - August 26](#day-1--august-26)
 * [Day 2 - August 27](#day-2--august-27)
 * [Day 3 - August 28](#day-3--august-28)
-* [Day 4 - August 29](#day-4--august-29)
+
 
 ## Code of Conduct 
 
