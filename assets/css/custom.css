@@ -55,12 +55,11 @@
 }
   
 /* table modifications - table colours*/
-.page__content thead th,
-.page__content table th {
-  background-color: #11999e;
-  color: #ffffff;
+.page__content table thead th {
+  background-color: #11999e !important;
+  color: #ffffff !important;
 }
 
-.page__content tr.break-row td {
-  background-color: #e8f4f0; /* lighter than header, darker than default rows */
+.page__content table tr.break-row td {
+  background-color: #d6f0f1 !important;
 }
