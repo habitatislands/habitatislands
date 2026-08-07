@@ -30,43 +30,76 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 ## Day 1 — August 26
 
 
-| Time | Session |
-|------|---------|
-| 8:30–9:00 AM | Arrival & informal networking in Los Guayacanes Rm |
-| 9:00–9:15 AM | Welcome & opening remarks |
-| 9:15–9:30 AM | Workshop framing (Jen Salazar, OSP) |
-| 9:30 AM–12:00 PM | Open session: **Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks)** |
-| 9:30-10:30 AM | **System Overview**. Speakers: 
-- *Rachel Collin* (STRI) Bocas del Toro and STRI field station
-- *Aaron O'Dea/Mike Braun* (STRI/NMNH) Geomorphic evolution of Bocas del Toro archipelago
-- *Kira Long* (NZCBI) Bocas del Toro province as a biogeographic suture zone
-- *Peri Bolton/Mike Braun* (NMNH) Bird species diversity in Bocas del Toro |
-<tr class="break-row"><td> 10:30-10:45 AM </td><td> Tea and Coffee Break </td></tr>
-| 10:45-12:00 PM | **Fragmentation Effects.** Speakers:
-- *Sandra Galeano* (Instituto von Humboldt) Leaf fitter frog communities in Bocas del Toro
-- *Haw Chuan Lim* (George Mason University) Fragmentation experiment in Borneo rainforests
-- *Matt Hansen* (University of Maryland) Remote sensing tropical forest fragmentation
-- *Claudio Monteza* (STRI) Animal movement in fragmented landscapes
-- *Sally Bornbusch* (NZCBI) - Islands within islands - animal microbiomes (Video talk) |
-| 12:00–1:00 PM | Buffet Lunch [El Corotú](https://www.gamboaresort.com/dining/el-corotu) |
-| 1:00–2:30 PM | **Talks continued & discussion** — segue into thematic framing |
-| 1:00-1:40 PM | **Adaptive Responses.** Speakers:
-- *Philip Johnson* (University of Maryland) Genomics and adaptation of island manakins
-- *Marco Gonzalez Santoro* (University of Pittsburg - Richards-Zawacki Lab) Evolution of colour polymorphism in Bocas del Toro
-- *Michal Jezierski* (University of Birmingham) Insular gigantism and island syndromes
-- *Aryeh Miller* (NMNH) Adaptive responses to insularity in Caribbean *Anolis* lizards
-| 1:40-2:10 PM | **Forest Ecology.** Speakers:
-- *Melissa McCormick* (SERC) Orchids, Mangroves and SERC overview
-- *Andy Jones/Owen McMillan* (Oregon State University/STRI) EDGE-BCI Genomics/Ecology
-- *Jefferson Hall* (STRI) Forest restoration
-| 2:10-2:20 PM | **Contributions of absent collaborators** |
-| 2:45–3:30 PM | Discovery highlights & strategic discussion of Bocas Fragmentation Project |
-| 3:30–3:45 PM | Tea and Coffee Break |
-| 3:45–4:45 PM | Discovery highlights & strategic discussion (cont'd) |
-| 4:45–5:15 PM | Mapping strengths to funders |
-| 5:15–5:30 PM | Day 1 wrap-up |
-| 5:30 PM | Adjourn |
-| 7:00 PM | Group dinner in Embera Rm & Welcome remarks (Oris Sanjur, STRI Deputy Director) |
+<table>
+  <thead>
+    <tr><th>Time</th><th>Session</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>8:30–9:00 AM</td><td>Arrival &amp; informal networking in Los Guayacanes Rm</td></tr>
+    <tr><td>9:00–9:15 AM</td><td>Welcome &amp; opening remarks</td></tr>
+    <tr><td>9:15–9:30 AM</td><td>Workshop framing (Jen Salazar, OSP)</td></tr>
+    <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks)</strong></td></tr>
+    <tr>
+      <td>9:30–10:30 AM</td>
+      <td>
+        <strong>System Overview.</strong> Speakers:
+        <ul>
+          <li><em>Rachel Collin</em> (STRI) — Bocas del Toro and STRI field station</li>
+          <li><em>Aaron O'Dea/Mike Braun</em> (STRI/NMNH) — Geomorphic evolution of Bocas del Toro archipelago</li>
+          <li><em>Kira Long</em> (NZCBI) — Bocas del Toro province as a biogeographic suture zone</li>
+          <li><em>Peri Bolton/Mike Braun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="break-row"><td>10:30–10:45 AM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td>10:45–12:00 PM</td>
+      <td>
+        <strong>Fragmentation Effects.</strong> Speakers:
+        <ul>
+          <li><em>Sandra Galeano</em> (Instituto von Humboldt) — Leaf litter frog communities in Bocas del Toro</li>
+          <li><em>Haw Chuan Lim</em> (George Mason University) — Fragmentation experiment in Borneo rainforests</li>
+          <li><em>Matt Hansen</em> (University of Maryland) — Remote sensing tropical forest fragmentation</li>
+          <li><em>Claudio Monteza</em> (STRI) — Animal movement in fragmented landscapes</li>
+          <li><em>Sally Bornbusch</em> (NZCBI) — Islands within islands: animal microbiomes (video talk)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td>12:00–1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
+    <tr><td>1:00–2:30 PM</td><td><strong>Talks continued &amp; discussion</strong> — segue into thematic framing</td></tr>
+    <tr>
+      <td>1:00–1:40 PM</td>
+      <td>
+        <strong>Adaptive Responses.</strong> Speakers:
+        <ul>
+          <li><em>Philip Johnson</em> (University of Maryland) — Genomics and adaptation of island manakins</li>
+          <li><em>Marco Gonzalez Santoro</em> (University of Pittsburgh — Richards-Zawacki Lab) — Evolution of colour polymorphism in Bocas del Toro</li>
+          <li><em>Michal Jezierski</em> (University of Birmingham) — Insular gigantism and island syndromes</li>
+          <li><em>Aryeh Miller</em> (NMNH) — Adaptive responses to insularity in Caribbean <em>Anolis</em> lizards</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1:40–2:10 PM</td>
+      <td>
+        <strong>Forest Ecology.</strong> Speakers:
+        <ul>
+          <li><em>Melissa McCormick</em> (SERC) — Orchids, mangroves, and SERC overview</li>
+          <li><em>Andy Jones/Owen McMillan</em> (Oregon State University/STRI) — EDGE-BCI genomics/ecology</li>
+          <li><em>Jefferson Hall</em> (STRI) — Forest restoration</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td>2:10–2:20 PM</td><td><strong>Contributions of absent collaborators</strong></td></tr>
+    <tr><td>2:45–3:30 PM</td><td>Discovery highlights &amp; strategic discussion of Bocas Fragmentation Project</td></tr>
+    <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
+    <tr><td>3:45–4:45 PM</td><td>Discovery highlights &amp; strategic discussion (cont'd)</td></tr>
+    <tr><td>4:45–5:15 PM</td><td>Mapping strengths to funders</td></tr>
+    <tr><td>5:15–5:30 PM</td><td>Day 1 wrap-up</td></tr>
+    <tr><td>5:30 PM</td><td>Adjourn</td></tr>
+    <tr><td>7:00 PM</td><td>Group dinner in Embera Rm &amp; welcome remarks (Oris Sanjur, STRI Deputy Director)</td></tr>
+  </tbody>
+</table>
 
 ## Day 2 — August 27
 
