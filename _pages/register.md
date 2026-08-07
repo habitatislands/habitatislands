@@ -16,6 +16,7 @@ header:
 - Please consult the [agenda](/agenda/) prior to registering.
 - Please register before 13th August. 
 
+<br>
 
 - Hay varias sesiones abiertas a científicos de STRI y de Panamá, pero las sesiones se impartirán inglés.
 - Por favor, regístrese para que podamos acomodar sus necesidades dietéticas.
