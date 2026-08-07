@@ -173,7 +173,6 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 * Grant outlining and strategy
 * Funder specific messaging
 
-
 <table>
   <thead>
     <tr><th>Time</th><th>Session</th></tr>
@@ -184,10 +183,8 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <li>Summary of Day 1 outputs</li>
       <li>Objectives for product development</li>
     </ul>
-    
     </td></tr>
-    <tr><td>9:00–9:30 AM</td><td><b>Talk: How to win large grants</b> (Jen Salazar + Stephanie Rios)
-    </td></tr>
+    <tr><td>9:00–9:30 AM</td><td><b>Talk: How to win large grants</b> (Jen Salazar + Stephanie Rios)</td></tr>
     <tr>
       <td>9:30–10:45 AM</td>
       <td>
@@ -200,7 +197,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
         General Discussion:
         <ul>
-         <li>What makes large proposals successful</li> 
+         <li>What makes large proposals successful</li>
          <li>Common pitfalls</li>
          <li>Managing interdisciplinary teams</li>
          <li>Lessons learned and candid advice</li>
@@ -220,53 +217,55 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
     </tr>
     <tr>
       <td style="background-color: #e9ecec;">12:00–1:00 PM</td><td style="background-color: #e9ecec;">Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
-    <tr><td>1:00–3:30 PM</td><td>**Breakouts:** strategic positioning, proposal concept development, collaboration infrastructure
-    Strategic Positioning & Team Formation (~0.5 hr)
+    <tr><td>1:00–3:30 PM</td><td><strong>Breakouts:</strong> strategic positioning, proposal concept development, collaboration infrastructure
+    <p>Strategic Positioning &amp; Team Formation (~0.5 hr)</p>
     <ul>
       <li>Small group breakouts organized by subtheme based on white-papers (identified previous day)</li>
-      <li>Define:</li>
-      <ul>
-        <li>Core research questions</li>
-        <li>Potential proposal directions</li>
-        <li>Required expertise and partnerships, including identification of expertise gaps</li>
-      </ul>
-      <li>Draft:</li>
-      <ul>
-        <li>Early <b>Partner & Role Blueprint</b></li>
-        <li>Initial concept framing language<li> 
-      </ul>
+      <li>Define:
+        <ul>
+          <li>Core research questions</li>
+          <li>Potential proposal directions</li>
+          <li>Required expertise and partnerships, including identification of expertise gaps</li>
+        </ul>
+      </li>
+      <li>Draft:
+        <ul>
+          <li>Early <b>Partner &amp; Role Blueprint</b></li>
+          <li>Initial concept framing language</li>
+        </ul>
+      </li>
     </ul>
-    
-    Bocas Fragmentation Proposal Concept Development (~3hrs)
-<ul>
-  <li>Develop 2–3 priority proposal concepts:
+    <p>Bocas Fragmentation Proposal Concept Development (~3hrs)</p>
     <ul>
-      <li>Specific aims</li>
-      <li>Narrative framing</li>
-      <li>Innovation and impact positioning</li>
+      <li>Develop 2–3 priority proposal concepts:
+        <ul>
+          <li>Specific aims</li>
+          <li>Narrative framing</li>
+          <li>Innovation and impact positioning</li>
+        </ul>
+      </li>
+      <li>Begin drafting <strong>Proposal Concept Briefs</strong></li>
     </ul>
-  </li>
-  <li>Begin drafting <strong>Proposal Concept Briefs</strong></li>
-</ul>
-
-Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)
-<ul>
-  <li>Develop:
+    <p>Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)</p>
     <ul>
-      <li>Team Identity document (mission, goals, norms)</li>
-      <li>Expertise &amp; Needs Matrix</li>
-      <li>Collaboration Interest Map</li>
+      <li>Develop:
+        <ul>
+          <li>Team Identity document (mission, goals, norms)</li>
+          <li>Expertise &amp; Needs Matrix</li>
+          <li>Collaboration Interest Map</li>
+        </ul>
+      </li>
+      <li>Refine:
+        <ul>
+          <li>Partner roles</li>
+          <li>Engagement strategy</li>
+        </ul>
+      </li>
     </ul>
-  </li>
-  <li>Refine:
-    <ul>
-      <li>Partner roles</li>
-      <li>Engagement strategy</li>
-    </ul>
-  </li>
-</ul>
     </td></tr>
-    <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td style="background-color: #e9ecec;">3:30–3:45 PM</td>
+      <td style="background-color: #e9ecec;">Tea and Coffee Break</td></tr>
     <tr><td>3:30–5:30 PM</td><td>Breakouts continued: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
     <tr><td>5:30 PM</td><td>Adjourn</td></tr>
     <tr>
@@ -274,6 +273,7 @@ Building the Bocas Fragmentation Collaboration Infrastructure (0.5 hr)
     </tr>
   </tbody>
 </table>
+
 
 
 ## Day 3 — August 28
