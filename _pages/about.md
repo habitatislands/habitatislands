@@ -36,7 +36,10 @@ This is an outcomes focused workshop where we will develop grant outlines and a 
 
 ## Goals
 
-- Advance a specific collaboration (“Bocas Fragmentation Project”) toward competitive, multi-investigator proposals
+- Advance a specific collaboration (“Bocas Fragmentation Project”) toward competitive, multi-investigator proposals. *specifically:*
+  * **Process:** How we move from Simons Pre-proposal ideas → fundable collaborations 
+  * **Content:** tightening focus (not several things but one theme) and opportunity space
+  * **Relationship building** among existing and new collaborators
 - Engage broader research community through open, high-value sessions
 
 ## Format 
