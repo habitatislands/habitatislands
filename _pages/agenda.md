@@ -10,15 +10,28 @@ header:
   caption: ""
 ---
 
-## Workshop Agenda
+# Workshop Agenda
 
 **Location:** Gamboa Rainforest Resort, Panama
 
 **Dates:** August 26–28
 
+## Table of Contents 
+* [Code of Conduct](#code-of-conduct)
+* [Day 0 — August 25](#day-0--august-25)
+* [Day 1 - August 26](#day-1--august-26)
+* [Day 2 - August 27](#day-2--august-27)
+* [Day 3 - August 28](#day-3--august-28)
+* [Day 4 - August 29](#day-4--august-29)
+
+## Code of Conduct 
+
 Please view the [Workshop Code of Conduct](/conduct/)
 
+tldr: Be respectful of others, their opinions, and share the floor with participants and facilitators
+
 All sessions will in be in English and occur at the Gamboa Rainforest Resort in the  Los Guayacanes Room (level 2)
+
 *Todas las sessiones se impartirán inglés y estará en el Gamboa Rainforest Resort, en la sala Los Guayacanes (Nivel 2)*
 
 ## Day 0 — August 25
