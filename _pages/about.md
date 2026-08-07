@@ -21,7 +21,7 @@ team_row:
     excerpt: "Smithsonian National Museum of Natural History, Senior Project Coordinator"
 ---
 
-## About This Workshop
+# About This Workshop
 
 This workshop brings together researchers to discuss continental archipelagos as models for
 studying the eco-evolutionary impacts of habitat fragmentation, using the Bocas del Toro
@@ -34,14 +34,17 @@ This is an outcomes focused workshop where we will develop grant outlines and a 
  - See here [some slides that include a concept map](https://docs.google.com/spreadsheets/d/1jyY_QEl0Sw0Eud2Nw0sPc6btzi95Vh4IVyENVSffTR8?usp=drive_fs) outlining how some of the concepts discussed and personnel listed in the Simons Pre-Proposal link together. Do not let this constrain your thinking, just contains suggestions as to how ideas can be partitioned from the original proposal, and does not exclude contributions of new participants. We will form linkages among white-papers in a similar way as in these slides. 
 
 
-### Goals
+## Goals
 
-- Develop a relationships and multi-year funding strategy for this collaboration
-- Outline key grants to pursue in this strategy
-- Highlight STRI facilities and research work on continental archipelagos or rainforest fragmentation.
+- Advance a specific collaboration (“Bocas Fragmentation Project”) toward competitive, multi-investigator proposals
+- Engage broader research community through open, high-value sessions
+
+## Format 
+
+This workshop is designed as a pilot that delivers both immediate, actionable outputs and a replicable model for advancing interdisciplinary collaboration. In addition to generating near-term products—such as proposal concepts, funder alignment strategies, and partnership plans—it functions as a structured mechanism for identifying, prioritizing, and “queueing” complex collaboration challenges that require longer-term solutions. By surfacing barriers related to language, incentives, coordination, and capacity, the process enables the institution to systematically address these issues while building a pipeline of increasingly mature, fundable team efforts.
 
  
-## Organizers
+# Organizers
 
 {% include feature_row id="team_row" %}
 
