@@ -15,7 +15,7 @@ header:
 
 **Dates:** August 26–28
 
-This is the high-level agenda.  For detailed timings of talks please click [HERE](https://docs.google.com/spreadsheets/d/1uLLybUM512jdeAXQ1PDd2xZWlHWENdSG/edit?usp=sharing&ouid=103789757576400290695&rtpof=true&sd=true).
+Please view the [Workshop Code of Conduct](/conduct/)
 
 ### Day 1 — August 26
 
