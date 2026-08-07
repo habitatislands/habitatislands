@@ -65,7 +65,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         </ul>
       </td>
     </tr>
-    <tr><td>12:00–1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
+    <tr class="break-row"><td>12:00-1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
     <tr><td>1:00–2:30 PM</td><td><strong>Talks continued &amp; discussion</strong> — segue into thematic framing</td></tr>
     <tr>
       <td>1:00–1:40 PM</td>
@@ -103,24 +103,42 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
 
 ## Day 2 — August 27
 
-| Time | Session |
-|------|---------|
-| 8:30–9:00 AM | Recap & Day 2 framing in Los Guayacanes Rm|
-| 9:00–9:30 AM | How to win large grants (Jen Salazar + Stephanie Rios) |
-| 9:45–10:30 AM | Open session: **Panel on winning large collaborative grants** confirmed panelists:
-- Jen Salazar (OSP)
-- Stephanie Rios (OSP)
-- Owen McMillan (STRI)
-- Bistra Dilkina (USC) |
-| 10:45–11:00 AM | Tea and Coffee Break |
-| 11:00 AM–12:00 PM | Open session **Invited speaker**
-  *Dr Bistra Dilkina* (University Southern California) - AI for conservation planning |
-| 12:00–1:00 PM | Buffet Lunch [El Corotú](https://www.gamboaresort.com/dining/el-corotu) |
-| 1:00–3:30 PM | Breakouts: strategic positioning, proposal concept development, collaboration infrastructure |
-| 3:30–3:45 PM | Tea and Coffee Break |
-| 1:00–3:30 PM | Breakouts: strategic positioning, proposal concept development, collaboration infrastructure |
-| 5:30 PM | Adjourn |
-| Evening | DIY dinner (not covered) |
+<table>
+  <thead>
+    <tr><th>Time</th><th>Session</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>8:30–9:00 AM</td><td>Recap &amp; Day 2 framing in Los Guayacanes Rm</td></tr>
+    <tr><td>9:00–9:30 AM</td><td>How to win large grants (Jen Salazar + Stephanie Rios)</td></tr>
+    <tr>
+      <td>9:45–10:30 AM</td>
+      <td>
+        Open session: <strong>Panel on winning large collaborative grants</strong>. Confirmed panelists:
+        <ul>
+          <li>Jen Salazar (OSP)</li>
+          <li>Stephanie Rios (OSP)</li>
+          <li>Owen McMillan (STRI)</li>
+          <li>Bistra Dilkina (USC)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr class="break-row"><td>10:45–11:00 AM</td><td>Tea and Coffee Break</td></tr>
+    <tr>
+      <td>11:00 AM–12:00 PM</td>
+      <td>
+        Open session <strong>Invited speaker</strong><br>
+        <em>Dr Bistra Dilkina</em> (University of Southern California) — AI for conservation planning
+      </td>
+    </tr>
+    <tr class="break-row"><td>12:00–1:00 PM</td><td>Buffet Lunch — <a href="https://www.gamboaresort.com/dining/el-corotu">El Corotú</a></td></tr>
+    <tr><td>1:00–3:30 PM</td><td>Breakouts: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
+    <tr class="break-row"><td>3:30–3:45 PM</td><td>Tea and Coffee Break</td></tr>
+    <tr><td>3:30–5:30 PM</td><td>Breakouts continued: strategic positioning, proposal concept development, collaboration infrastructure</td></tr>
+    <tr><td>5:30 PM</td><td>Adjourn</td></tr>
+    <tr><td>Evening</td><td>DIY dinner (not covered)</td></tr>
+  </tbody>
+</table>
+
 
 ## Day 3 — August 28
 
