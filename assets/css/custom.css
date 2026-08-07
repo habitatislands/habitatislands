@@ -38,6 +38,7 @@
 .page__footer-follow a[href="/feed.xml"] {
   display: none;
 
+/* table modifications - table width*/
 .page__content table {
   table-layout: fixed;
   width: 100%;
@@ -51,4 +52,11 @@
 .page__content th:last-child,
 .page__content td:last-child {
   width: 75%;
+}
+  
+/* table modifications - table colours*/
+.page__content thead th,
+.page__content table th {
+  background-color: #11999e;
+  color: #ffffff;
 }
