@@ -52,7 +52,15 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
   <tbody>
     <tr><td>8:30–9:00 AM</td><td>Arrival &amp; informal networking in Los Guayacanes Rm</td></tr>
     <tr><td>9:00–9:15 AM</td><td>Welcome &amp; opening remarks</td></tr>
-    <tr><td>9:15–9:30 AM</td><td>Workshop framing (Jen Salazar, OSP)</td></tr>
+    <tr>
+      <td>9:15–9:30 AM</td>
+      <td>Workshop framing (Jen Salazar, OSP)</td>
+      <ul>
+        <li>Workshop expectations</li>
+        <li>Goals</li>
+        <li>Outcomes and products</li>
+      </ul> 
+    </tr>
     <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks)</strong></td></tr>
     <tr>
       <td>9:30–10:30 AM</td>
