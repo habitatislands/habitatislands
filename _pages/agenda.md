@@ -16,6 +16,8 @@ header:
 
 **Dates:** August 26–28
 
+Please keep checking here for last minute minor changes to speaker schedule!
+
 ## Table of Contents 
 * [Code of Conduct](#code-of-conduct)
 * [Day 0 — August 25](#day-0--august-25)
